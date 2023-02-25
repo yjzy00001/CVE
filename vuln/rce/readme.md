@@ -1,4 +1,4 @@
-# Tenda AX3 V16.03.12.11 Stack overflow vulnerability
+# Tenda AX3 V16.03.12.11 command injection vulnerability
 
 ## Firmware information
 
